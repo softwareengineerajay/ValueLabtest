@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueLabtest", "ValueLabtest.csproj", "{A8388376-E73F-4FAE-BFDD-B5866168CE5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueLabtestTests", "..\ValueLabtestTests\ValueLabtestTests.csproj", "{0615A981-2227-4FFC-9EA3-8D26BFA6ACB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8388376-E73F-4FAE-BFDD-B5866168CE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8388376-E73F-4FAE-BFDD-B5866168CE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8388376-E73F-4FAE-BFDD-B5866168CE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8388376-E73F-4FAE-BFDD-B5866168CE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0615A981-2227-4FFC-9EA3-8D26BFA6ACB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0615A981-2227-4FFC-9EA3-8D26BFA6ACB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0615A981-2227-4FFC-9EA3-8D26BFA6ACB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0615A981-2227-4FFC-9EA3-8D26BFA6ACB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573A2ABE-7842-478A-A2A8-A58115B3D7E3}
+	EndGlobalSection
+EndGlobal
